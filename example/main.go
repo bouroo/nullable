@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"fmt"
 	"time"
-
-	"github.com/bouroo/nullable"
+	
+	"nullable"
 )
 
 type Person struct {
